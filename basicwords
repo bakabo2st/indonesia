@@ -1,32 +1,3 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@bakabo2st 
-bakabo2st
-/
-yellowReading
-Public
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-Settings
-yellowReading/question0110.html
-@bakabo2st
-bakabo2st Update and rename question.html to question0110.html
-Latest commit a52384d 7 days ago
- History
- 1 contributor
-1094 lines (1094 sloc)  39.4 KB
-
 <!DOCTYPE html>
 <html lang="ja">
 <head>
@@ -34,7 +5,7 @@ Latest commit a52384d 7 days ago
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="style.css">
-    <title>スラ練</title>
+    <title>インドネシア語基礎単語01</title>
 </head>
 <body>
     <header>
@@ -42,70 +13,53 @@ Latest commit a52384d 7 days ago
             <ul>
                 <li><a href="index.html">トップページへ</a></li>
                 <li><a href="verb.html">動詞の活用のスラ練</a></li>
-                <li><a href="question0110.html">質問のスラ錬1～10</a></li>
-                <li><a href="question1120.html">質問のスラ錬11～20</a></li>
-                <li><a href="question2130.html">質問のスラ錬21～30</a></li>
-                <li><a href="question3141.html">質問のスラ錬31～41</a></li>
-                <li><a href="englishquestion0102.html">問題英文のスラ連L.1-2英文</a></li>
-                <li><a href="englishquestion0304.html">問題英文のスラ連L.3-4英文</a></li>
-                <li><a href="englishquestion0506.html">問題英文のスラ連L.5-6英文</a></li>
-                <li><a href="englishquestion0708.html">問題英文のスラ連L.7-8英文</a></li>
-                <li><a href="englishquestion0910.html">問題英文のスラ連L.9-10英文</a></li>
-                <li><a href="englishquestion1112.html">問題英文のスラ連L.11-12英文</a></li>
-                <li><a href="englishquestion1314.html">問題英文のスラ連L.13-14英文</a></li>
-                <li><a href="englishquestion1516.html">問題英文のスラ連L.15-16英文</a></li>
-                <li><a href="englishquestion1718.html">問題英文のスラ連L.17-18英文</a></li>
-                <li><a href="englishquestion1921.html">問題英文のスラ連L.19-21英文</a></li>
             </ul>
         </nav>
     </header>
     <div class="content">
-        <h1>質問のスラ錬1～10</h1>
-        <h2>01</h2>
+        <h1>インドネシア語基礎単語01</h1>
         <div class="countup">
             <div>
                <details>
-                    <summary>働きとは？</summary>
-                    ある語が別の語に対してもつ働き
+                    <summary>Saya</summary>
+                    私
                 </details>
             </div>
             <div>
                 <details>
-                     <summary>修飾とは？</summary>
-                     他の語の助けを借りずに説明すること
+                     <summary>Anda</summary>
+                     あなた
                  </details>
             </div>
             <div>
                 <details>
-                     <summary>形容詞の働きは？</summary>
-                     名詞修飾、補語
+                     <summary>Dia</summary>
+                     彼 / 彼女 ※男女両方指します。
                  </details>
             </div>
             <div>
                 <details>
-                     <summary>副詞の働きは？</summary>
-                     動詞修飾、形容詞修飾、副詞修飾、文修飾
+                     <summary>Mereka</summary>
+                     彼ら
                 </details>
             </div>
         </div>
-        <h2>02</h2>
-        <div class="countup">
-            <div>
+        <div>
                 <details>
-                    <summary>活用は全部でいくつか？</summary>
-                    5つ
+                    <summary>Kami</summary>
+                    私たち（話し相手を含まない）
                 </details>
             </div>
             <div>
                 <details>
-                    <summary>活用の最初の形は何形か？</summary>
-                    原形
+                    <summary>Kita</summary>
+                    私たち（話し相手を含む）
                 </details>
             </div>
             <div>
                 <details>
-                    <summary>活用を最初から順に言いなさい。</summary>
-                    原形、現在形、過去形、過去分詞形、ing形
+                    <summary>Laki-laki</summary>
+                    男性
                 </details>
             </div>
             <div>
@@ -161,7 +115,6 @@ Latest commit a52384d 7 days ago
                 過去形と過去分詞形が、原形にedがついたつづりになる活用
                 </details>
             </div>
-        </div>
         <h2>03</h2>
         <div class="countup">
             <div>
