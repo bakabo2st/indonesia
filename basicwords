@@ -1,0 +1,1123 @@
+Skip to content
+Search or jump to…
+Pull requests
+Issues
+Marketplace
+Explore
+ 
+@bakabo2st 
+bakabo2st
+/
+yellowReading
+Public
+Code
+Issues
+Pull requests
+Actions
+Projects
+Wiki
+Security
+Insights
+Settings
+yellowReading/question0110.html
+@bakabo2st
+bakabo2st Update and rename question.html to question0110.html
+Latest commit a52384d 7 days ago
+ History
+ 1 contributor
+1094 lines (1094 sloc)  39.4 KB
+
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>スラ練</title>
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="index.html">トップページへ</a></li>
+                <li><a href="verb.html">動詞の活用のスラ練</a></li>
+                <li><a href="question0110.html">質問のスラ錬1～10</a></li>
+                <li><a href="question1120.html">質問のスラ錬11～20</a></li>
+                <li><a href="question2130.html">質問のスラ錬21～30</a></li>
+                <li><a href="question3141.html">質問のスラ錬31～41</a></li>
+                <li><a href="englishquestion0102.html">問題英文のスラ連L.1-2英文</a></li>
+                <li><a href="englishquestion0304.html">問題英文のスラ連L.3-4英文</a></li>
+                <li><a href="englishquestion0506.html">問題英文のスラ連L.5-6英文</a></li>
+                <li><a href="englishquestion0708.html">問題英文のスラ連L.7-8英文</a></li>
+                <li><a href="englishquestion0910.html">問題英文のスラ連L.9-10英文</a></li>
+                <li><a href="englishquestion1112.html">問題英文のスラ連L.11-12英文</a></li>
+                <li><a href="englishquestion1314.html">問題英文のスラ連L.13-14英文</a></li>
+                <li><a href="englishquestion1516.html">問題英文のスラ連L.15-16英文</a></li>
+                <li><a href="englishquestion1718.html">問題英文のスラ連L.17-18英文</a></li>
+                <li><a href="englishquestion1921.html">問題英文のスラ連L.19-21英文</a></li>
+            </ul>
+        </nav>
+    </header>
+    <div class="content">
+        <h1>質問のスラ錬1～10</h1>
+        <h2>01</h2>
+        <div class="countup">
+            <div>
+               <details>
+                    <summary>働きとは？</summary>
+                    ある語が別の語に対してもつ働き
+                </details>
+            </div>
+            <div>
+                <details>
+                     <summary>修飾とは？</summary>
+                     他の語の助けを借りずに説明すること
+                 </details>
+            </div>
+            <div>
+                <details>
+                     <summary>形容詞の働きは？</summary>
+                     名詞修飾、補語
+                 </details>
+            </div>
+            <div>
+                <details>
+                     <summary>副詞の働きは？</summary>
+                     動詞修飾、形容詞修飾、副詞修飾、文修飾
+                </details>
+            </div>
+        </div>
+        <h2>02</h2>
+        <div class="countup">
+            <div>
+                <details>
+                    <summary>活用は全部でいくつか？</summary>
+                    5つ
+                </details>
+            </div>
+            <div>
+                <details>
+                    <summary>活用の最初の形は何形か？</summary>
+                    原形
+                </details>
+            </div>
+            <div>
+                <details>
+                    <summary>活用を最初から順に言いなさい。</summary>
+                    原形、現在形、過去形、過去分詞形、ing形
+                </details>
+            </div>
+            <div>
+                <details>
+                     <summary>活用の3番目の形は何形か？</summary>
+                     過去形
+                 </details>
+             </div>
+             <div>
+                <details>
+                     <summary>活用の2番目の形は何形か？</summary>
+                     現在形
+                 </details>
+             </div>
+             <div>
+                <details>
+                     <summary>活用に未来形はあるか？</summary>
+                     ない
+                 </details>
+             </div>
+             <div>
+                <details>
+                     <summary>活用に現在分詞形はあるか？</summary>
+                     ない
+                 </details>
+             </div>
+             <div>
+                <details>
+                    <summary>活用に過去分詞形はあるか？</summary>
+                    ある
+                </details>
+             </div>
+             <div>
+                 <details>
+                    <summary>過去分詞形は活用の何番目か？</summary>
+                    4番目<strong>形容詞の<strong>働き</strong></strong>のこと
+            </div>
+            <div>
+               <details>
+                   <summary>活用の最後の形は何形か？</summary>
+                   ing形
+                </details>
+            </div>
+            <div>
+               <details>
+                    <summary>活用を言いなさいと言われたら何形を答えるか？</summary>
+                    原形と過去形と過去分詞形
+                 </details>
+             </div>
+            <div>
+              <details>
+                <summary>規則活用とはどういう活用か？</summary>
+                過去形と過去分詞形が、原形にedがついたつづりになる活用
+                </details>
+            </div>
+        </div>
+        <h2>03</h2>
+        <div class="countup">
+            <div>
+                <details>
+                    <summary>文とは？</summary>
+                    構造上の主語＋述語動詞
+                </details>
+            </div>
+            <div>
+                <details>
+                    <summary>英文とは？</summary>
+                    大文字で始まりピリオドで終わる語群
+                </details>
+            </div>
+            <div>
+                <details>
+                    <summary>主語になれる品詞は？</summary>
+                    名詞<strong>のみ</strong>
+                </details>
+            </div>
+            <div>
+                <details>
+                  <summary>現在形の動詞は絶対に（　）になる。</summary>
+                    述語動詞
+                </details>
+            </div>
+            <div>
+                <details>
+                  <summary>現在形の動詞は絶対に（　）を作る。</summary>
+                    文
+                </details>
+            </div>
+            <div>
+                <details>
+                  <summary>過去形の動詞は絶対に（　）になる。</summary>
+                    述語動詞
+                  </details>
+            </div>
+            <div>
+                <details>
+                  <summary>過去形の動詞は絶対に（　）を作る。</summary>
+                    文
+                  </details>
+            </div>
+            <div>
+                <details>
+                    <summary>動詞は（　）にならないこともある。</summary>
+                    述語動詞
+                </details>
+            </div>
+            <div>
+                <details>
+                    <summary>動詞は（　）を作らないこともある。</summary>
+                    文
+                </details>
+            </div>
+            <div>
+                <details>
+                  <summary>be動詞は（  ）動詞である。</summary>
+                    原形がbeである
+                </details>
+            </div>
+            <div>
+                <details>
+                  <summary>be動詞以外の動詞は何というか？</summary>
+                   一般動詞 
+                </details>
+            </div>
+            <div>
+                <details>
+                  <summary>be動詞の意味は？</summary>
+                    ある・いる
+                  </details>
+            </div>
+            <div>
+                <details>
+                  <summary>be動詞の現在形は？</summary>
+                  am・is・are
+                  </details>
+            </div>
+            <div>
+                <details>
+                  <summary>be動詞の過去形は？</summary>
+                    was・were
+                  </details>
+            </div>
+            <div>
+                <details>
+                  <summary>be動詞の過去分詞形は？</summary>
+                    been
+                </details>
+            </div>
+            <div>
+                <details>
+                  <summary>be動詞のing形は？</summary>
+                    beeing
+                  </details>
+            </div>
+            <div>
+                <details>
+                  <summary>誘導副詞thereの働きは？</summary>
+                    述語動詞を主語の前に引き出す。
+                  </details>
+            </div>
+        </div>
+        <h2>04 ( )に適切なbe動詞を入れて英文を完成させなさい</h2>
+        <div class="countup">
+            <div>
+                <details>
+                    <summary>Today ( ) Monday.</summary>
+                    is
+                </details>
+            </div>
+            <div>
+                <details>
+                    <summary>It ( ) Monday today.</summary>
+                    is
+                </details>
+            </div>
+            <div>
+                <details>
+                    <summary>You ( ) a little child then.</summary>
+                    You are a little child then.
+                </details>
+            </div>
+            <div>
+                <details>
+                    <summary>
+                    I ( ) a good swimmer.<br />
+                    (上手です/上手だった2通り)
+                    </summary>
+                    I am a good swimmer.<br />
+                    I was a good swimmer. 
+                </details>
+            </div>
+            <div>
+                <details>
+                    <summary>
+                    You ( ) a really hard worker.<br />
+                    (勉強家だ/勉強家だった 2通り)
+                    </summary>
+                    You are a really hard worker.<br />
+                    YOu were a really hard worker.
+                </details>
+            </div>
+        </div>
+        <h2>05 ( )内の日本語を英語にして英文を完成させなさい。</h2>
+        <div class="countup">
+            <div>
+                <details>
+                    <summary>（彼女）stood apart from (彼).</summary>
+                    She stood apart from him.
+                </details>
+            </div>
+            <div>
+                <details>
+                    <summary>(あなた) stood apart from (私たち).</summary>
+                    You stood apart from us.
+                </details>
+            </div>
+            <div>
+                <details>
+                    <summary>(私たち) stood apart from (あなた).</summary>
+                    We stood apart from you.
+                </details>
+            </div>
+            <div>
+                <details>
+                    <summary>(彼ら) stood apart from (私).</summary>
+                    They stood apart from me.
+                </details>
+            </div>
+            <div>
+                <details>
+                    <summary>(私) stood apart from (彼ら).</summary>
+                    I stood apart from them.
+                </details>
+            </div>
+        </div>
+        <h2>06 He found book easy.について</h2>
+        <div class="countup">
+            <div>
+                <details>
+                    <summary>foundは述語動詞か準動詞か？
+                    </summary>
+                    述語動詞
+                </details>
+            </div>
+            <div>
+                <details>
+                    <summary>foundは何形か？</summary>
+                    過去形 
+                </details>
+            </div>
+            <div>
+                <details>
+                    <summary>foundは何番か？</summary>
+                    5番
+                </details>
+            </div>
+            <div>
+                <details>
+                    <summary>この文の文型は？</summary>
+                    第五文型（SVOCも可)
+                </details>
+            </div>
+            <div>
+                <details>
+                    <summary>bookの働きは？</summary>
+                    動詞の目的語
+                </details>
+            </div>
+            <div>
+                <details>
+                    <summary>easyの品詞と働きは？</summary>
+                    形容詞で補語
+                </details>
+            </div>
+            <div>
+                <details>
+                    <summary>「構造上の主語＋述語動詞」を指摘せよ。</summary>
+                    He found
+                </details>
+            </div>
+            <div>
+                <details>
+                    <summary>この英文中の「意味上の主語・述語関係」を日本語で言いなさい。</summary>
+                    その本は平易である。
+                </details>
+            </div>
+        </div>
+        <h2>07</h2>
+        <div class="countup">
+            <div>
+                <details>
+                    <summary>前置詞と結びついた名詞の働きを(  )という。
+                    </summary>
+                    前置詞の目的語
+                </details>
+            </div>
+            <div>
+                <details>
+                    <summary>前置詞+名詞の品詞は？</summary>
+                    形容詞句、副詞句
+                </details>
+            </div>
+            <div>
+                <details>
+                    <summary>文とは何か？</summary>
+                    構造上の主語+述語動詞
+                </details>
+            </div>
+            <div>
+                <details>
+                    <summary>目的語の2種類を言いなさい。</summary>
+                    動詞の目的語・前置詞の目的語
+                </details>
+            </div>
+            <div>
+                <details>
+                    <summary>「私、私たち、あなた、あなたたち」を主格の代名詞で言いなさい。</summary>
+                    I、We、You、You
+                </details>
+            </div>
+            <div>
+                <details>
+                    <summary>「私、私たち、あなた、あなたたち」を目的格の代名詞で言いなさい。</summary>
+                    me、our、you、you
+                </details>
+            </div>
+            <div>
+                <details>
+                    <summary>「彼、彼女、それ、彼ら、それら」を主格の代名詞で言いなさい。</summary>
+                    he、she、it、they、they
+                </details>
+            </div>
+            <div>
+                <details>
+                    <summary>「彼、彼女、それ、彼ら、それら」を目的格の代名詞で言いなさい。</summary>
+                    him、her、it、them、them
+                </details>
+            </div>
+            <div>
+                <details>
+                    <summary>herの品詞と意味は？
+                    </summary>
+                    名詞だと「彼女」・形容詞だと「彼女の」
+                </details>
+            </div>
+            <div>
+                <details>
+                    <summary>補語になれる品詞は？</summary>
+                    名詞・形容詞
+                </details>
+            </div>
+            <div>
+                <details>
+                    <summary>どういう形容詞が補語か？</summary>
+                    動詞の助けを借りて名詞を説明する形容詞
+                </details>
+            </div>
+            <div>
+                <details>
+                    <summary>どういう名詞が補語か？</summary>
+                    前置詞が付いていなくて、「主語」又はその「動詞の目的語」とイコールになる名詞
+                </details>
+            </div>
+            <div>
+                <details>
+                    <summary>①の動詞型は？</summary>
+                    V
+                </details>
+            </div>
+            <div>
+                <details>
+                    <summary>②の動詞型は？</summary>
+                    VC
+                </details>
+            </div>
+            <div>
+                <details>
+                    <summary>③の動詞型は？</summary>
+                    VO
+                </details>
+            </div>
+            <div>
+                <details>
+                    <summary>④の動詞型は？</summary>
+                    VOO
+                </details>
+            </div>
+            <div>
+                <details>
+                    <summary>⑤の動詞型は？
+                    </summary>
+                    VOC
+                </details>
+            </div>
+            <div>
+                <details>
+                    <summary>①のbe動詞が表す意味は？</summary>
+                    ある・いる・存在する
+                </details>
+            </div>
+            <div>
+                <details>
+                    <summary>②のbe動詞が表す意味は？</summary>
+                    ～である
+                </details>
+            </div>
+            <div>
+                <details>
+                    <summary>「④ O1 O2」のO1を何と言うか？</summary>
+                    間接目的語
+                </details>
+            </div>
+            <div>
+                <details>
+                    <summary>「④ O1 O2」のO2を何と言うか？</summary>
+                    直接目的語
+                </details>
+            </div>
+            <div>
+                <details>
+                    <summary>④の基本的意味は？</summary>
+                    与える・与えない・取り去る
+                </details>
+            </div>
+            <div>
+                <details>
+                    <summary>⑤の基本的意味は？</summary>
+                    認識する・生み出す
+                </details>
+            </div>
+            <div>
+                <details>
+                    <summary>「⑤ O C」のOとCの間には(  )がある。</summary>
+                    意味上の主語・述語関係
+                </details>
+            </div>
+            <div>
+                <details>
+                    <summary>「⑤ O as C」で使う⑤の動詞の基本的意味は？</summary>
+                    考える・言う
+                </details>
+            </div>
+            <div>
+                <details>
+                    <summary>「⑤ O as C」で使う⑤の動詞を6つ言いなさい。</summary>
+                    regard,think of,look on, describe, speak of, refer to
+                </details>
+            </div>
+            <div>
+                <details>
+                    <summary>動詞に前置詞や副詞などが付いて、全体として1つの動詞と捉えるものを(  )という。</summary>
+                    郡動詞
+                </details>
+            </div>
+            <div>
+                <details>
+                    <summary>自動詞とはどういう動詞か？</summary>
+                    動詞の目的語が付かない動詞
+                </details>
+            </div>
+            <div>
+                <details>
+                    <summary>自動詞の番号は？</summary>
+                    ①・②
+                </details>
+            </div>
+            <div>
+                <details>
+                    <summary>他動詞とはどういう動詞か？</summary>
+                    動詞の目的語が付く動詞
+                </details>
+            </div>
+            <div>
+                <details>
+                    <summary>他動詞の番号は？</summary>
+                    ③・④・⑤・③・④・⑤
+                </details>
+            </div>
+            <div>
+                <details>
+                    <summary>「⑤ O C」のOとCの間にある「意味上の主語・述語関係」を日本語で言いなさい。</summary>
+                    OがCである・OがCする
+                </details>
+            </div>
+            <div>
+                <details>
+                    <summary>名詞の基本的働きは？</summary>
+                    主語・動詞の目的語・前置詞の目的語・補語
+                </details>
+            </div>
+        </div>
+        <h2>08 I can speak Englishについて</h2>
+        <div class="countup">
+            <div>
+                <details>
+                    <summary>この英文の述語動詞は？
+                    </summary>
+                    speak
+                </details>
+            </div>
+            <div>
+                <details>
+                    <summary>speakは何形か？</summary>
+                    原形
+                </details>
+            </div>
+            <div>
+                <details>
+                    <summary>なぜ原形だと言えるのか？</summary>
+                    一般助動詞が付いているから（「助動詞が付いているから」は不正解）
+                </details>
+            </div>
+            <div>
+                <details>
+                    <summary>speakは着物を着ているか、裸か？</summary>
+                    着物を着ている
+                </details>
+            </div>
+            <div>
+                <details>
+                    <summary>着物はどれか？</summary>
+                    can
+                </details>
+            </div>
+            <div>
+                <details>
+                    <summary>speakは何番か？</summary>
+                    ③
+                </details>
+            </div>
+            <div>
+                <details>
+                    <summary>canの品詞は</summary>
+                    助動詞
+                </details>
+            </div>
+            <div>
+                <details>
+                    <summary>canは何形か？</summary>
+                    現在形
+                </details>
+            </div>
+            <div>
+                <details>
+                    <summary>なぜ現在形だと言えるのか?
+                    </summary>
+                    canは一般助動詞で、一般助動詞には現在形と過去形しかなく、過去形はcouldだから、canは現在形である。
+                </details>
+            </div>
+            <div>
+                <details>
+                    <summary>speakは絶対に述語動詞と言えるか？</summary>
+                    名詞・形容詞
+                </details>
+            </div>
+            <div>
+                <details>
+                    <summary>どういう形容詞が補語か？</summary>
+                    動詞の助けを借りて名詞を説明する形容詞
+                </details>
+            </div>
+            <div>
+                <details>
+                    <summary>どういう名詞が補語か？</summary>
+                    前置詞が付いていなくて、「主語」又はその「動詞の目的語」とイコールになる名詞
+                </details>
+            </div>
+            <div>
+                <details>
+                    <summary>①の動詞型は？</summary>
+                    V
+                </details>
+            </div>
+            <div>
+                <details>
+                    <summary>②の動詞型は？</summary>
+                    VC
+                </details>
+            </div>
+            <div>
+                <details>
+                    <summary>③の動詞型は？</summary>
+                    VO
+                </details>
+            </div>
+            <div>
+                <details>
+                    <summary>④の動詞型は？</summary>
+                    VOO
+                </details>
+            </div>
+            <div>
+                <details>
+                    <summary>⑤の動詞型は？
+                    </summary>
+                    VOC
+                </details>
+            </div>
+            <div>
+                <details>
+                    <summary>①のbe動詞が表す意味は？</summary>
+                    ある・いる・存在する
+                </details>
+            </div>
+            <div>
+                <details>
+                    <summary>②のbe動詞が表す意味は？</summary>
+                    ～である
+                </details>
+            </div>
+            <div>
+                <details>
+                    <summary>「④ O1 O2」のO1を何と言うか？</summary>
+                    間接目的語
+                </details>
+            </div>
+            <div>
+                <details>
+                    <summary>「④ O1 O2」のO2を何と言うか？</summary>
+                    直接目的語
+                </details>
+            </div>
+            <div>
+                <details>
+                    <summary>④の基本的意味は？</summary>
+                    与える・与えない・取り去る
+                </details>
+            </div>
+            <div>
+                <details>
+                    <summary>⑤の基本的意味は？</summary>
+                    認識する・生み出す
+                </details>
+            </div>
+            <div>
+                <details>
+                    <summary>「⑤ O C」のOとCの間には(  )がある。</summary>
+                    意味上の主語・述語関係
+                </details>
+            </div>
+            <div>
+                <details>
+                    <summary>「⑤ O as C」で使う⑤の動詞の基本的意味は？</summary>
+                    考える・言う
+                </details>
+            </div>
+            <div>
+                <details>
+                    <summary>「⑤ O as C」で使う⑤の動詞を6つ言いなさい。</summary>
+                    regard,think of,look on, describe, speak of, refer to
+                </details>
+            </div>
+            <div>
+                <details>
+                    <summary>動詞に前置詞や副詞などが付いて、全体として1つの動詞と捉えるものを(  )という。</summary>
+                    郡動詞
+                </details>
+            </div>
+            <div>
+                <details>
+                    <summary>自動詞とはどういう動詞か？</summary>
+                    動詞の目的語が付かない動詞
+                </details>
+            </div>
+            <div>
+                <details>
+                    <summary>自動詞の番号は？</summary>
+                    ①・②
+                </details>
+            </div>
+            <div>
+                <details>
+                    <summary>他動詞とはどういう動詞か？</summary>
+                    動詞の目的語が付く動詞
+                </details>
+            </div>
+            <div>
+                <details>
+                    <summary>他動詞の番号は？</summary>
+                    ③・④・⑤・-③・-④・-⑤
+                </details>
+            </div>
+            <div>
+                <details>
+                    <summary>「⑤ O C」のOとCの間にある「意味上の主語・述語関係」を日本語で言いなさい。</summary>
+                    OがCである・OがCする
+                </details>
+            </div>
+            <div>
+                <details>
+                    <summary>名詞の基本的働きは？</summary>
+                    主語・動詞の目的語・前置詞の目的語・補語
+                </details>
+            </div>
+        <h2>08 I can speak Englishについて</h2>
+        <div class="countup">
+            <div>
+                <details>
+                    <summary>この英文の述語動詞は？
+                    </summary>
+                    speak
+                </details>
+            </div>
+            <div>
+                <details>
+                    <summary>speakは何形か？</summary>
+                    原形
+                </details>
+            </div>
+            <div>
+                <details>
+                    <summary>なぜ原形だと言えるのか？</summary>
+                    一般助動詞が付いているから（「助動詞が付いているから」は不正解）
+                </details>
+            </div>
+            <div>
+                <details>
+                    <summary>speakは着物を着ているか、裸か？</summary>
+                    着物を着ている
+                </details>
+            </div>
+            <div>
+                <details>
+                    <summary>着物はどれか？</summary>
+                    can
+                </details>
+            </div>
+            <div>
+                <details>
+                    <summary>speakは何番か？</summary>
+                    ③
+                </details>
+            </div>
+            <div>
+                <details>
+                    <summary>canの品詞は？</summary>
+                    助動詞
+                </details>
+            </div>
+            <div>
+                <details>
+                    <summary>なぜ現在形だと言えるのか？</summary>
+                    canは一般助動詞で、一般助動詞には現在形と過去形しかなく、過去形はcouldだから、canは現在形である
+                </details>
+            </div>
+            <div>
+                <details>
+                    <summary>speakは絶対に述語動詞と言えるか？</summary>
+                    言える
+                </details>
+            </div>
+            <div>
+                <details>
+                    <summary>なぜか？</summary>
+                    現在形の助動詞が付いているから（「一般助動詞が付いているから」も一応可。「現在形の助動詞が付いているから」の方がより品質的な答え。）
+                </details>
+            </div>
+            <div>
+                <details>
+                    <summary>この英文を否定文に変えなさい</summary>
+                    I cannot speak English./I can't speak English.
+                </details>
+            </div>
+        </div>
+        <h2>09</h2>
+        <div class="countup">
+            <div>
+                <details>
+                    <summary>助動詞の4種類を言いなさい。
+                    </summary>
+                    be助動詞・have助動詞・Do助動詞・一般助動詞
+                </details>
+            </div>
+            <div>
+                <details>
+                    <summary>be助動詞は何形の動詞に付くか？</summary>
+                    過去分詞形・ing形
+                </details>
+            </div>
+            <div>
+                <details>
+                    <summary>have助動詞は何形の動詞に付くか？</summary>
+                    過去分詞形
+                </details>
+            </div>
+            <div>
+                <details>
+                    <summary>do助動詞は何形の動詞に付くか？</summary>
+                    原形
+                </details>
+            </div>
+            <div>
+                <details>
+                    <summary>一般助動詞は何形の動詞に付くか？</summary>
+                    原形
+                </details>
+            </div>
+            <div>
+                <details>
+                    <summary>be助動詞の活用は(  )がある</summary>
+                    全ての活用形
+                </details>
+            </div>
+            <div>
+                <details>
+                    <summary>have助動詞の活用は(  )がある</summary>
+                    原形・現在形・過去形・ing形
+                </details>
+            </div>
+            <div>
+                <details>
+                    <summary>do助動詞の活用には(  )がある。</summary>
+                    原形・現在形・過去形
+                </details>
+            </div>
+            <div>
+                <details>
+                    <summary>一般助動詞の活用には(  )がある</summary>
+                    現在形・過去形
+                </details>
+            </div>
+            <div>
+                <details>
+                    <summary>現在形の助動詞が付いた動詞は必ず(  )になる</summary>
+                    述語動詞
+                </details>
+            </div>
+            <div>
+                <details>
+                    <summary>過去形の助動詞が付いた動詞は必ず(  )になる</summary>
+                    述語動詞
+                </details>
+            </div>
+            <div>
+                <details>
+                    <summary>(  )助動詞が付いた動詞は必ず述語動詞になる</summary>
+                    一般
+                </details>
+            </div>
+            <div>
+                <details>
+                    <summary>canの否定形は？</summary>
+                    cannot ・ can't
+                </details>
+            </div>
+            <div>
+                <details>
+                    <summary>語尾がthingで終わる代名詞にかかる形容詞の位置は？</summary>
+                    代名詞の後ろ
+                </details>
+            </div>
+            <div>
+                <details>
+                    <summary>疑問文の2種類を言いなさい</summary>
+                    Yes・No疑問文、疑問詞を使った疑問文
+                </details>
+            </div>
+            <div>
+                <details>
+                    <summary>疑問詞の3種類を言いなさい</summary>
+                    疑問代名詞・疑問形容詞・疑問副詞
+                </details>
+            </div>
+            <div>
+                <details>
+                    <summary>「一般動詞を中心とした語群」の代わりをするdoを(  )と言う</summary>
+                    代動詞
+                </details>
+            </div>
+            <div>
+                <details>
+                    <summary>主語が疑問詞の時の「疑問文の語順」は？</summary>
+                    普通の語順と同じ
+                </details>
+            </div>
+            <div>
+                <details>
+                    <summary>否定疑問文の答え方は(  )になる</summary>
+                    日本語と英語で「はい」「いいえ」が逆
+                </details>
+            </div>
+            <div>
+                <details>
+                    <summary>原形動詞を使うところは？</summary>
+                    toの後・do助動詞と一般助動詞の後・命令文・make,have,letなどの補語・仮定法現在
+                </details>
+            </div>
+            <div>
+                <details>
+                    <summary>接続詞の2種類を言いなさい</summary>
+                    等位接続詞・従属接続詞
+                </details>
+            </div>
+            <div>
+                <details>
+                    <summary>「名詞が余った」とはどういうことか？</summary>
+                    主語・動詞の目的語・前置詞の目的語・補語のどれにもなっていないということ
+                </details>
+            </div>
+            <div>
+                <details>
+                    <summary>名詞が余ったときの考え方は？</summary>
+                    同格・動詞の目的格・beingが省略された分詞構文のどれだろうと考える
+                </details>
+            </div>
+            <div>
+                <details>
+                    <summary>aの前から、aの後の名詞を修飾できる形容詞は？</summary>
+                    such・感嘆形容詞のwhat
+                </details>
+            </div>
+            <div>
+                <details>
+                    <summary>theの前から、theの後の名詞を修飾できる形容詞は？</summary>
+                    all・both
+                </details>
+            </div>
+            <div>
+                <details>
+                    <summary>名詞修飾の形容詞をaの前に引き出す副詞は？</summary>
+                    so・as・too・how・however・no
+                </details>
+            </div>
+            <div>
+                <details>
+                    <summary>(  )と(  )と(  )は重複使用できない</summary>
+                    冠詞、所有格、this・that・there・those
+                </details>
+            </div>
+            <div>
+                <details>
+                    <summary>形容詞のwhatの3種類を言いなさい</summary>
+                    疑問形容詞・関係形容詞・感嘆形容詞
+                </details>
+            </div>
+            <div>
+                <details>
+                    <summary>aの前から、aの後ろの名詞を修飾できるwhatは(  )だけである</summary>
+                    感嘆形容詞
+                </details>
+            </div>
+            <div>
+                <details>
+                    <summary>同格とは？</summary>
+                    名詞を別の名詞で言い換えること
+                </details>
+            </div>
+            <div>
+                <details>
+                    <summary>副詞的目的格とは？</summary>
+                    時間、距離、数量、様態を表す名詞が、前置詞がつかずに副詞の働きをすること
+                </details>
+            </div>
+            <div>
+                <details>
+                    <summary>副詞的目的格を形容詞・副詞にかけるときは(  )に置く</summary>
+                    直前
+                </details>
+            </div>
+        </div>
+        <h2>10</h2>
+        <div class="countup">
+            <div>
+                <details>
+                    <summary>ingの可能性は？
+                    </summary>
+                    進行形・動名詞・現在分詞形容詞用法・分詞構文
+                </details>
+            </div>
+            <div>
+                <details>
+                    <summary>裸のingの可能性は？</summary>
+                    動名詞・現在分詞形容詞用法・分詞構文
+                </details>
+            </div>
+            <div>
+                <details>
+                    <summary>着物を着ているingの可能性は？</summary>
+                    進行形
+                </details>
+            </div>
+            <div>
+                <details>
+                    <summary>現在分詞の可能性は？</summary>
+                    進行形・現在分詞形容詞用法・分詞構文
+                </details>
+            </div>
+            <div>
+                <details>
+                    <summary>裸の現在分詞の可能性は？</summary>
+                    現在分詞形容詞用法・分詞構文
+                </details>
+            </div>
+            <div>
+                <details>
+                    <summary>着物を着ている現在分詞の可能性は？</summary>
+                    進行形
+                </details>
+            </div>
+            <div>
+                <details>
+                    <summary>着物を着ている動名詞の可能性は？</summary>
+                    ない
+                </details>
+            </div>
+            <div>
+                <details>
+                    <summary>ing形の動詞が着る着物は？</summary>
+                    be助動詞
+                </details>
+            </div>
+        </div>
+    </content>
+</body>
+</html>
